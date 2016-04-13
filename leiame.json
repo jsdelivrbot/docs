@@ -1,4 +1,5 @@
 {
   "path": "/",
-  "branch_name": "Beta"
+  "branch_name": "Beta",
+  "sidebar": "/sidebar.md"
 }
