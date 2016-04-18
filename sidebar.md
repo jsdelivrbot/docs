@@ -1,4 +1,4 @@
 #### Configuração
- - [Inicio](/inicio)
+ - [Instalação](/instalacao)
  - [Configuração](/configuracao)
  - [Módulos](/modulos)
