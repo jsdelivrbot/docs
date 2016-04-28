@@ -1,0 +1,11 @@
+body {
+    border-top: solid 10px #6D607B;
+}
+a {
+    color: #853FB9;
+    text-decoration: none;
+}
+a:hover {
+    color: #853FB9;
+    text-decoration: underline;
+}
