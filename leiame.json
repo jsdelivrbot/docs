@@ -2,7 +2,9 @@
     "path"       : "/",
     "branch_name": "Beta",
     "sidebar"    : "/sidebar.md",
-    "css": "https://raw.githubusercontent.com/leiame/docs/master/style.css",
+
+    "css": "https://cdn.rawgit.com/leiame/docs/master/theme/style.css",
+    "logo": "https://cdn.rawgit.com/leiame/docs/master/theme/logo.png",
 
     "modules": [
         "auto_title_index",
