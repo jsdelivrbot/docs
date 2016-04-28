@@ -18,4 +18,7 @@ Não fazemos distinções se um repositório é público ou privado, para nós, 
 ## Quantos repositórios posso ter?
 
 Quantos você bem quiser, sendo eles publicos ou privados, mas disponibilizamos gratuitamente somente um reposiório por usuário.
-Se você quiser ter mais repositórios com documentações elegantes, você pode adquirir um de nossos pequenos [planos](/planos).
+Se você quiser ter mais repositórios com documentações elegantes, você pode adquirir um de nossos pequenos [planos](http://leiame.org/#planos).
+
+
+> [Configurando o repositório](/configuracao)
