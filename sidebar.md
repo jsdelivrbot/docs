@@ -4,5 +4,4 @@
  - [Módulos](/modulos)
 
 #### Outros
- - [Sobre](/sobre)
  - [Termos](/termos)
