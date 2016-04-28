@@ -17,4 +17,5 @@ Primeiro é preciso que seja criar um arquivo `leiame.json` no raiz de seu repos
 }
 ```
 
-* Lembramos que cada `branch` deve conter um arquivo `leiame.json` para ser exibido como versão da documentação. Se você quiser remover um branch da documentação, basta excluir o arquivo leiame.json do mesmo.
+> Lembramos que cada `branch` deve conter um arquivo `leiame.json` para ser exibido como versão da documentação.
+> Se você quiser remover um branch da documentação, basta excluir o arquivo leiame.json do mesmo.
