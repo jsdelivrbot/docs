@@ -32,4 +32,4 @@ Primeiro é preciso que seja criar um arquivo `leiame.json` no raiz de seu repos
 | css         | string   | URL completa de um arquivo css que será injetado nas páginas da documentação. Para customização de visual |
 | modules     | array    | Lista de módulos que você pode ativar em sua documentação. Veja [lista de módulos aqui](/modulos) |
 
-> [Lista de móodulos](/modulos)
+> [Lista de módulos](/modulos)
