@@ -3,8 +3,8 @@
     "branch_name": "Beta",
     "sidebar"    : "/sidebar.md",
 
-    "css": "https://cdn.rawgit.com/leiame/docs/master/theme/style.css",
-    "logo": "https://cdn.rawgit.com/leiame/docs/master/theme/logo.png",
+    "css": "https://cdn.jsdelivr.net/gh/leiame/docs/theme/style.css",
+    "logo": "https://cdn.jsdelivr.net/gh/leiame/docs/theme/logo.png",
 
     "modules": [
         "auto_title_index",
